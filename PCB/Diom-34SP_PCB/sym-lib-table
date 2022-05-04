@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name "nice_nano")(type "Legacy")(uri "D:/Downloads 2.0/nice-nano-all-pins/nice_nano.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${GITREPO}/Diom-34SP/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/led.pretty/led.kicad_sym")(options "")(descr ""))
+  (lib (name "randomSymbols")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/randomSymbols.kicad_sym")(options "")(descr ""))
 )
