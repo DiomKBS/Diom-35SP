@@ -1,4 +1,4 @@
-20179030462064517
+20183987787694720
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85659,6 +85659,13 @@ D_SOD-123
 2
 2
 led
+LED_SMD_3.5x2.8mm
+
+
+0
+2
+2
+led
 RotaryEncoder_EC11E-Switch
 
 
@@ -85670,8 +85677,8 @@ SHOU HAN MSK12C02-HB
 
 
 0
-0
-0
+7
+4
 led
 SK6812MINI_3.5x3.7mm_SMD
 
@@ -85729,7 +85736,21 @@ CherryMX-1.5U-doubleSided-Vertical
 4
 2
 mx-switches-doubleSided
+CherryMX-1.5U-doubleSided-Vertical-noSilk
+
+
+0
+4
+2
+mx-switches-doubleSided
 CherryMX-1U-doubleSided
+
+
+0
+4
+2
+mx-switches-doubleSided
+CherryMX-1U-doubleSided-noSilk
 
 
 0
