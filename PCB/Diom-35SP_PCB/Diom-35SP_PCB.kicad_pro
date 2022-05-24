@@ -119,7 +119,8 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.381
       ],
       "via_dimensions": [
         {
@@ -346,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Diom-34SP_PCB.kicad_pro",
+    "filename": "Diom-35SP_PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
