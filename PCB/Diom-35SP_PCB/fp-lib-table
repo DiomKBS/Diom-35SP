@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "nice-nano-all-pins")(type "KiCad")(uri "D:/Downloads 2.0/nice-nano-all-pins")(options "")(descr ""))
   (lib (name "led")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/led.pretty")(options "")(descr ""))
+  (lib (name "hybrid-switches-DoubleSided")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/hybrid-switches-DoubleSided.pretty")(options "")(descr ""))
 )
