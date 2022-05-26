@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-05-24T19:22:59+02:00"
+    "CreationDate": "2022-05-25T19:26:06+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,7 +27,7 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.1905,
-      "MinLineWidth": 0.254,
+      "MinLineWidth": 0.381,
       "TrackToRegion": 0.1905,
       "RegionToRegion": 0.1905
     }
@@ -62,6 +62,16 @@
       "Path": "Diom-35SP_PCB-rounded-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Diom-35SP_PCB-rounded-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Diom-35SP_PCB-rounded-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "Diom-35SP_PCB-rounded-Edge_Cuts.gbr",
